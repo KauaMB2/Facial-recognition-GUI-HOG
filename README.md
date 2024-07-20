@@ -11,3 +11,4 @@
 
 ## Softwares used:
 ### Software CMake V3.26.0
+### Package for Desktop development from Visual Studio Installer: "CMake Tools of C++ for Windows"
